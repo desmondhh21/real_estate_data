@@ -4,7 +4,7 @@ This project showcases my ability to turn real-world scraping needs into sleek, 
 
 ## 🔍 Project Overview
 
-This script scrapes data from a mock site (*Books to Scrape*) and transforms it into a structured CSV—formatted as if it's collecting real estate data. It extracts:
+This script scrapes data from a mock site [Books to Scrape](http://books.toscrape.com/catalogue/category/books_1/index.html) and transforms it into a structured CSV—formatted as if it's collecting real estate data. It extracts:
 
 - 🏠 Property Address (Book Title)
 - 💲 Listing Price
